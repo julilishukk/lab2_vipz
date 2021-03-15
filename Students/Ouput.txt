@@ -1,0 +1,40 @@
+All students:
+--------------------------------------------
+|  Lishshuk |   Julia |2002.17.11 |5 |5 |5 |
+|  Stepanov |     Max |2003.15.01 |3 |5 |2 |
+|     Gerey |  Andrew |2002.11.11 |5 |5 |1 |
+|Prokopchyk |    Anna |2003.07.08 |4 |5 |2 |
+|   Demchyk |    Olga |2006.27.10 |4 |1 |2 |
+|     Sokol |    Ivan |2005.12.11 |5 |5 |5 |
+|    Kucher |    Vika |2006.05.12 |2 |1 |1 |
+|  Kolesnyk |    Igor |2005.07.08 |1 |2 |3 |
+--------------------------------------------
+Number of students = 8
+Sorted students who have bad marks(2):
+--------------------------------------------
+|   Demchyk |    Olga |2006.27.10 |4 |1 |2 |
+|  Kolesnyk |    Igor |2005.07.08 |1 |2 |3 |
+|    Kucher |    Vika |2006.05.12 |2 |1 |1 |
+|Prokopchyk |    Anna |2003.07.08 |4 |5 |2 |
+|  Stepanov |     Max |2003.15.01 |3 |5 |2 |
+--------------------------------------------
+Average mark:
+---------------------------------
+|   Demchyk |    Olga |2.333333 |
+|     Gerey |  Andrew |3.666667 |
+|  Kolesnyk |    Igor |2.000000 |
+|    Kucher |    Vika |1.333333 |
+|  Lishshuk |   Julia |5.000000 |
+|Prokopchyk |    Anna |3.666667 |
+|     Sokol |    Ivan |5.000000 |
+|  Stepanov |     Max |3.333333 |
+---------------------------------
+After removing bad students:
+--------------------------------------------
+|     Gerey |  Andrew |2002.11.11 |5 |5 |1 |
+|  Lishshuk |   Julia |2002.17.11 |5 |5 |5 |
+|Prokopchyk |    Anna |2003.07.08 |4 |5 |2 |
+|     Sokol |    Ivan |2005.12.11 |5 |5 |5 |
+|  Stepanov |     Max |2003.15.01 |3 |5 |2 |
+--------------------------------------------
+Number of students = 5
